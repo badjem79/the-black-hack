@@ -544,9 +544,9 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 | Cubo Gelatinoso   |    4    | test su **CON** al tocco o paralisi, immune al freddo e ai fulmini.|
 | Lupo Mannaro      |    4    | Solo le armi d'argento lo possono ferire.|
 | Orco              |    4    | Da Vantaggio su tutti i test di **CHA** contro di lui.|
-| Basilisco         |    5    | Morso (1d3) e test su **CON** o Pietrificato.   |
+| Coccatrice        |    5    | Morso (1d3) e test su **CON** o Pietrificato.   |
 | Owlbear           |    5    | 2 artigli (1d6) + 1 morso (2d6) + Abbraccio di 2d8 il tiro per colpire è 1-4. |
-| Basilisko          |    6    | **CON** test sul contatto degli occhi, se fallito paralisi. |
+| Basilisc          |    6    | **CON** test sul contatto degli occhi, se fallito paralisi. |
 | Succubus/Incubus  |    6    | 2 Artigli (1d3), Vantaggio sui test Magici, immune alle armi non magiche, perdita di livello (-1) col bacio. Può lanciare l'incantesimo Incanta Persona una volta all'ora. |
 | Mummia        |    6    | I suoi attacchi non guariscono se non con un incantesimo Cura Ferite, immune alle normali armi, danni dimezzati dalle armi Magiche.|
 | Banshee           |    7    | Strillo - test di **CON** o Paralisi per 2d6 momenti.|
